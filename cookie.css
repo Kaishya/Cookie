@@ -1,0 +1,19 @@
+.remove {
+    display: none;
+}
+
+.hide {
+    visibility: hidden;
+}
+
+body {
+    background: lightcyan;
+}
+
+.shrink {
+    transform:scale(.8);
+}
+
+.add {
+    display: contents;
+}
